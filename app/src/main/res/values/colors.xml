@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF8A80</color>
+
+    <color name="stat_title">#000000</color>
+    <color name="stat_mods">#676767</color>
+    <color name="background_color">#EFEFEF</color>
+
+    <color name="border_color">#3d3d3d</color>
+</resources>

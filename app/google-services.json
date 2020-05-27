@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694604236894",
+    "firebase_url": "https://dnd-app-8cc1e.firebaseio.com",
+    "project_id": "dnd-app-8cc1e",
+    "storage_bucket": "dnd-app-8cc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694604236894:android:3604646830f46507200ccf",
+        "android_client_info": {
+          "package_name": "com.example.android.charactercreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694604236894-knimqqa49ptoiq3op174u6g3tdhdhs1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6s2ups-WFnIVrpZjrUJg4Ci1v7DW6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694604236894-knimqqa49ptoiq3op174u6g3tdhdhs1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
